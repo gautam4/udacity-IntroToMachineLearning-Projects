@@ -1,4 +1,4 @@
-# Udacity IntroToMachineLearning Course Project
+# Udacity IntroToMachineLearning Course Projects
 
 ## Introduction 
 This repository contains projects completed as part of Udacity's Introduction to Machine Learning Course. More information on the course can be found [here](https://www.udacity.com/course/intro-to-machine-learning--ud120). The projects apply machine learning to analyze email data from the Enron dataset, containing emails and financial records from Enron. 
